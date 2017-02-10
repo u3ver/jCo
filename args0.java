@@ -10,4 +10,4 @@ class args0 {
   }
 }
 
-// console java args0 x y z > / >> reportARGS.txt
+// console java args0 x y >/>> reportARGS.txt
