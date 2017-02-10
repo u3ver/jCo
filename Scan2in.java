@@ -1,9 +1,8 @@
 import java.util.Scanner;
-import java.io.*;
+// import java.io.*; not needed
 
 public class Scan2in {
-  public static void main (String[] args) throws FileNotFoundException
-  {
+  public static void main (String[] args)  {
     Scanner sc = new Scanner(System.in); {
     System.out.println("Reading file.."); 
     while (sc.hasNext()) {
