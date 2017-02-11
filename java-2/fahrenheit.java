@@ -9,6 +9,6 @@ class fahrenheit {
        c =  (f - 32) * 0.5556; // 5/9 = 0.555555556
           BigDecimal cDec = new BigDecimal(c);
           cDec = cDec.setScale(2, BigDecimal.ROUND_HALF_UP);
-  System.out.println ("Temperature set to: " + f + " F.\nCelsuis: " + cDec + " C.");
+  System.out.println ("Temperature set to: " + f + " F.\n" + "Celsius: " + cDec + " C.");
   }
 }
