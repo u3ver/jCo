@@ -1,7 +1,7 @@
 import java.util.Scanner;
 // import java.math.BigDecimal; // for rounding 0.00
 
-class celsius {
+class Celsius {
   public static void main (String[] args) {
     Scanner sc = new Scanner(args[0]);
      double c = sc.nextDouble();
