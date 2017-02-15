@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-class ab {
+class AB {
 public static void main(String[] args) {
   System.out.println ("Checking numbers..");
  Scanner sc = new Scanner(args[0]);
