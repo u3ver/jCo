@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-class aBa {
+class ABA {
 public static void main(String[] args) {
   System.out.println ("Accepting nuclear launch codes..");
  Scanner sc = new Scanner(args[0]);
