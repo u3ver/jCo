@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import java.math.BigDecimal;
+// import java.math.BigDecimal;
 
 class fahrenheit {
   public static void main (String[] args) {
