@@ -1,7 +1,7 @@
 import java.util.Scanner;
 // import java.math.BigDecimal;
 
-class fahrenheit {
+class Fahrenheit {
   public static void main (String[] args) {
     Scanner sc = new Scanner(args[0]);
      double f = sc.nextDouble();
