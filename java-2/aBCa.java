@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-class aBCa {
+class ABCA {
 public static void main(String[] args) {
   System.out.println ("Accepting nuclear launch coordinates..");
  Scanner sc = new Scanner(args[0]);
