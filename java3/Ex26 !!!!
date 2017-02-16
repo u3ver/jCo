@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+class Test {
+  public static void main (String[] args) {
+    System.out.println ("enter the time in seconds: ");
+    Scanner sc = new Scanner(System.in);
+      int N = sc.nextInt();
+    sc.close();
+    
+      N = 
+    
+      System.out.println ( N );
+  }
+}
