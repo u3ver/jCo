@@ -15,7 +15,7 @@ class Evenly {
     } else if (b % a == 0) {
       System.out.println ("True");
     } else {
-        System.out.println ("False");
+      System.out.println ("False");
     }
   }
 }
