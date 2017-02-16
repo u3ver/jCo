@@ -14,6 +14,6 @@ class Random {
      
     double c = b - a + 1;
       int random = (int)(Math.random() * c) + a;
-    System.out.println (random);
+        System.out.println ("Random between a & b - " + random);
   }
 }
