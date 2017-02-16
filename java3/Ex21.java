@@ -8,7 +8,8 @@ class Ex21 {
     sc.close();
     
     int dec = xx / 10;
-    int unit = (xx % 10) * 10;
-    System.out.println (unit + dec);
+    int unit = xx % 10;
+      System.out.println (dec);
+      System.out.println (unit);
   }
 }
