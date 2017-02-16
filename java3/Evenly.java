@@ -10,9 +10,12 @@ class Evenly {
     Scanner sc2 = new Scanner(args[1]);
       int b = sc2.nextInt();
     sc2.close();
-       for (
-       
-    System.out.println ("non int char");
-     }
+    if (a % b == 0) {
+      System.out.println ("True");
+    } else if (b % a == 0) {
+      System.out.println ("True");
+    } else {
+        System.out.println ("False");
+    }
   }
 }
