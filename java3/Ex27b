@@ -1,0 +1,2 @@
+ success &= inputValue % 2 == 0; // четное
+                success &= inputValue < 100; // двухзначное
